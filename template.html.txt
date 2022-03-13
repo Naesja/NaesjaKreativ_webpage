@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+       <html>
+          <html lang="es">
+           <head>
+              <meta charset="utf-8">
+              <meta name="keywords" content="decoracion">
+              <link rel="stylesheet" type="text/css" href="global.css"/>
+            <title>index.html</title>
+              </head>
+               <header>
+           <div id="logo%20NaEsJa_Page_1.jpg">
+               <img id="logo NaEsJa" src="logo%20NaEsJa_Page_1.jpg" border="10px;" width="1550px" height= "300px"> </div> </header>
+           <title>Servicios Decoraci&oacute;</title>
+      <body>
+       <h1>Decoraci&oacute;n para Actividades Personalizada</h1>
+       <div class="contenedor-imagenes">
+       <img src="unicornio.jpg"  border="15px"; width="750px;" height="450px;">
+       <img src="robot.jpg" border="15px";  width="750px;" height="450px;">
+       </div>
+<main class="main">
+<div class="container">
+  <h2><p> Creamos decoraci&oacute;nes para cualquier eventos:</p></h2>
+<label for="Que Actividad desea Cotizar"><h3>Que Actividad Desea Cotizar:</h3></label>
+
+<select name="Que Actividad Desea Cotizar" >
+<option selected value="Cumplea&ntildeos;">Cumplea&ntildeos;</option>
+   
+    <option value="Boda">Boda</option>
+    
+    <option value="Bby Shower">Bby Shower</option>
+    
+    <option value="Gender Reveal">Gender Reveal</option>
+    
+    <option value="Iglesia">Iglesia</option>
+    
+    <option value="Graduaci&oacuten";>Graduaci&oacuten;</option>
+    
+    <option value="Otro">Otro</option>
+   </select>
+          </div>
+    </main>
+        <h3><p>Env&iacute;e su su idea y la transformaremos en belleza</p></h3>
+        <nav>
+     <ul>
+        <li><a href="index.html" targer="_blank">Inicio</a></li>
+         <li><a href="Demostracion.html" target="_blank">Demostraci&oacute;n</a></li>
+        
+         <li><a href="Continuacion%20Demostracion.html" target="_blank">Continuaci&oacute;n Demostraci&oacute;n</a></li>
+     </ul>
+                 </nav>
+ <footer class="footer"> 
+     <h4>Natalia Rivera </h4>
+     <h4>tel: 787-247-0568</h4>
+      <h4><a href="nrivera.quinones@gmail.com">nrivera.quinones@gmail.com</a></h4>
+     </footer>
+     </body>
+     </html>
+     
+        
+      
+     
+    
+   
+  
+ 
